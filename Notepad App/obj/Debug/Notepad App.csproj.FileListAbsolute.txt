@@ -1,0 +1,11 @@
+C:\Users\serma\OneDrive\Documents\PortofolioProjects\Notepad App\bin\Debug\Notepad App.exe.config
+C:\Users\serma\OneDrive\Documents\PortofolioProjects\Notepad App\bin\Debug\Notepad App.exe
+C:\Users\serma\OneDrive\Documents\PortofolioProjects\Notepad App\bin\Debug\Notepad App.pdb
+C:\Users\serma\OneDrive\Documents\PortofolioProjects\Notepad App\obj\Debug\Notepad App.csproj.AssemblyReference.cache
+C:\Users\serma\OneDrive\Documents\PortofolioProjects\Notepad App\obj\Debug\Notepad App.csproj.SuggestedBindingRedirects.cache
+C:\Users\serma\OneDrive\Documents\PortofolioProjects\Notepad App\obj\Debug\Notepad_App.Properties.Resources.resources
+C:\Users\serma\OneDrive\Documents\PortofolioProjects\Notepad App\obj\Debug\Notepad App.csproj.GenerateResource.cache
+C:\Users\serma\OneDrive\Documents\PortofolioProjects\Notepad App\obj\Debug\Notepad App.csproj.CoreCompileInputs.cache
+C:\Users\serma\OneDrive\Documents\PortofolioProjects\Notepad App\obj\Debug\Notepad App.exe
+C:\Users\serma\OneDrive\Documents\PortofolioProjects\Notepad App\obj\Debug\Notepad App.pdb
+C:\Users\serma\OneDrive\Documents\PortofolioProjects\Notepad App\obj\Debug\Notepad_App.AppForm.resources
